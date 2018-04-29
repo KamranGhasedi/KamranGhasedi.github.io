@@ -12,5 +12,23 @@
 	<atom:link href="https://kamranghasedi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Pitt</title>
+      <link>https://kamranghasedi.github.io/post/pitt/</link>
+      <pubDate>Sun, 29 Apr 2018 11:10:55 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/post/pitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cvpr18</title>
+      <link>https://kamranghasedi.github.io/post/cvpr18/</link>
+      <pubDate>Sun, 29 Apr 2018 11:10:45 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/post/cvpr18/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
