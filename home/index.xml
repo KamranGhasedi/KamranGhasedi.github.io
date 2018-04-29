@@ -59,5 +59,14 @@ I am a teaching instructor for the following courses at University X:
       <description></description>
     </item>
     
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://kamranghasedi.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

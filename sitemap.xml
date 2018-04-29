@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://kamranghasedi.github.io/talk/my-talk-name/</loc>
+      <lastmod>2018-04-29T11:41:06-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kamranghasedi.github.io/post/pitt/</loc>
       <lastmod>2018-04-29T11:10:55-04:00</lastmod>
     </url>
@@ -77,15 +86,6 @@
     
     <url>
     
-      <loc>https://kamranghasedi.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://kamranghasedi.github.io/publication_types/1/</loc>
       <lastmod>2018-04-25T23:02:51-04:00</lastmod>
       <priority>0</priority>
@@ -126,6 +126,16 @@
     <url>
     
       <loc>https://kamranghasedi.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kamranghasedi.github.io/talk/</loc>
+      <lastmod>2018-04-29T11:41:06-04:00</lastmod>
       <priority>0</priority>
     </url>
     
