@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Our paper was accepted at KDD 2018!</title>
+      <link>https://kamranghasedi.github.io/talk/kdd18/</link>
+      <pubDate>Sun, 06 May 2018 20:35:43 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/talk/kdd18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unsupervised Deep Generative Adversarial Hashing Network</title>
       <link>https://kamranghasedi.github.io/publication/cvpr18/</link>
       <pubDate>Wed, 25 Apr 2018 23:02:51 -0400</pubDate>
