@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Kamran Ghasedi</copyright>
-    <lastBuildDate>Wed, 27 Jun 2018 09:54:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kamranghasedi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Robust Cumulative Crowdsourcing Framework Using New Incentive Payment Function and Joint Aggregation Model</title>
+      <link>https://kamranghasedi.github.io/publication/tnnls19/</link>
+      <pubDate>Fri, 15 Nov 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/publication/tnnls19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balanced Self-Paced Learning for Generative Adversarial Clustering Network</title>
+      <link>https://kamranghasedi.github.io/publication/cvpr19/</link>
+      <pubDate>Wed, 01 May 2019 20:35:43 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/publication/cvpr19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conditional Generative Adversarial Network for Gene Expression Inference</title>
