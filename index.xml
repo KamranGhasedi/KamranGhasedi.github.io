@@ -11,11 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>I will be interning at JD Research in Spring 2020!</title>
+      <link>https://kamranghasedi.github.io/talk/jd19/</link>
+      <pubDate>Thu, 05 Dec 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/talk/jd19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper was accepted at IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!</title>
+      <link>https://kamranghasedi.github.io/talk/tnnls19/</link>
+      <pubDate>Fri, 15 Nov 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/talk/tnnls19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Our paper was accepted at CVPR 2019!</title>
       <link>https://kamranghasedi.github.io/talk/cvpr19/</link>
       <pubDate>Wed, 01 May 2019 20:35:43 -0400</pubDate>
       
       <guid>https://kamranghasedi.github.io/talk/cvpr19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I will be interning at Adobe Research in Summer 2019!</title>
+      <link>https://kamranghasedi.github.io/talk/adobe19/</link>
+      <pubDate>Fri, 15 Feb 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/talk/adobe19/</guid>
       <description></description>
     </item>
     
@@ -30,10 +57,10 @@
     
     <item>
       <title>Our paper was accepted at ECCB 2018!</title>
-      <link>https://kamranghasedi.github.io/talk/eccb18/</link>
+      <link>https://kamranghasedi.github.io/oldtalk/eccb18/</link>
       <pubDate>Wed, 27 Jun 2018 09:36:52 -0400</pubDate>
       
-      <guid>https://kamranghasedi.github.io/talk/eccb18/</guid>
+      <guid>https://kamranghasedi.github.io/oldtalk/eccb18/</guid>
       <description></description>
     </item>
     
@@ -48,10 +75,10 @@
     
     <item>
       <title>Our paper was accepted at KDD 2018!</title>
-      <link>https://kamranghasedi.github.io/talk/kdd18/</link>
+      <link>https://kamranghasedi.github.io/oldtalk/kdd18/</link>
       <pubDate>Sun, 06 May 2018 20:35:43 -0400</pubDate>
       
-      <guid>https://kamranghasedi.github.io/talk/kdd18/</guid>
+      <guid>https://kamranghasedi.github.io/oldtalk/kdd18/</guid>
       <description></description>
     </item>
     
@@ -75,10 +102,10 @@
     
     <item>
       <title>Our paper was accepted at CVPR 2018!</title>
-      <link>https://kamranghasedi.github.io/talk/cvpr18/</link>
+      <link>https://kamranghasedi.github.io/oldtalk/cvpr18/</link>
       <pubDate>Sun, 18 Feb 2018 11:48:41 -0400</pubDate>
       
-      <guid>https://kamranghasedi.github.io/talk/cvpr18/</guid>
+      <guid>https://kamranghasedi.github.io/oldtalk/cvpr18/</guid>
       <description></description>
     </item>
     
@@ -102,10 +129,10 @@
     
     <item>
       <title>CSL (our) lab was moved in to Pittsburgh University!</title>
-      <link>https://kamranghasedi.github.io/movein_pitt/</link>
+      <link>https://kamranghasedi.github.io/oldtalk/movein_pitt/</link>
       <pubDate>Sat, 29 Jul 2017 12:04:53 -0400</pubDate>
       
-      <guid>https://kamranghasedi.github.io/movein_pitt/</guid>
+      <guid>https://kamranghasedi.github.io/oldtalk/movein_pitt/</guid>
       <description></description>
     </item>
     

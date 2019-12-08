@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OldTalks on Kamran Ghasedi Dizaji</title>
+    <link>https://kamranghasedi.github.io/oldtalk/</link>
+    <description>Recent content in OldTalks on Kamran Ghasedi Dizaji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Kamran Ghasedi</copyright>
+    <lastBuildDate>Wed, 27 Jun 2018 09:36:52 -0400</lastBuildDate>
+    
+	<atom:link href="https://kamranghasedi.github.io/oldtalk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our paper was accepted at ECCB 2018!</title>
+      <link>https://kamranghasedi.github.io/oldtalk/eccb18/</link>
+      <pubDate>Wed, 27 Jun 2018 09:36:52 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/oldtalk/eccb18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper was accepted at KDD 2018!</title>
+      <link>https://kamranghasedi.github.io/oldtalk/kdd18/</link>
+      <pubDate>Sun, 06 May 2018 20:35:43 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/oldtalk/kdd18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper was accepted at CVPR 2018!</title>
+      <link>https://kamranghasedi.github.io/oldtalk/cvpr18/</link>
+      <pubDate>Sun, 18 Feb 2018 11:48:41 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/oldtalk/cvpr18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSL (our) lab was moved in to Pittsburgh University!</title>
+      <link>https://kamranghasedi.github.io/oldtalk/movein_pitt/</link>
+      <pubDate>Sat, 29 Jul 2017 12:04:53 -0400</pubDate>
+      
+      <guid>https://kamranghasedi.github.io/oldtalk/movein_pitt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
